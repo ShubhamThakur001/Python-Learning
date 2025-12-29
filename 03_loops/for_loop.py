@@ -48,7 +48,8 @@ if not found:
 """
 
 """
-to find the sum of first n numbers
+to find the sum of first n number
+
 
 sum = 0
 n = 10

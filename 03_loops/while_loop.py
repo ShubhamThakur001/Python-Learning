@@ -4,14 +4,14 @@ Docstring for 03_loops.while_loop
     while condition:
         #some work
     
-    Break : used to terminate the loop when encountered
+    Break : used to terminate the loop when encountered 
     
     Continue : terminates execution in the currect iteration and conditions of the loop with the next iteration 
 """
 
 # count = 1
 
-# while count <= 5:
+# while count <= 10:
 #     print(count , end=" ")
 #     count+=1
     
