@@ -1,5 +1,17 @@
 """
-
+Try To implements bank basic operations
+    >   Create Account
+    >   Check Balance
+    >   Deposit
+    >   Withdraw
+    >   Ministate bank feature
+    >   Used pin based system to provide security
+    
+What Learn 
+    > Encapsulation
+    > objects , class
+    > pin based access system
+    > basic crud operations
 """
 import random
 class BankAccount:
