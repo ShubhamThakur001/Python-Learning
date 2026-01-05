@@ -22,12 +22,3 @@
 
 
 
-"""
-📌 Quick Summary
-Type	            Output
-List Comprehension	[]
-Dict Comprehension	{key: value}
-Set Comprehension	{}
-String	join() + list comp
-
-"""
