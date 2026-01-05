@@ -26,3 +26,14 @@ for x in range(5):
 result = [x for x in range(5)]
 
 """
+
+"""
+
+📌 Quick Summary
+Type	                Output
+List Comprehension	    []
+Dict Comprehension	    {key: value}
+Set Comprehension	    {}
+String	join() + list comp
+
+"""
